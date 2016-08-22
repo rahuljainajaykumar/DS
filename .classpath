@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/aopalliance-repackaged-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/asm-debug-all-5.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/hk2-api-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/hk2-locator-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/hk2-utils-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/javax.inject-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/jersey-client.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/jersey-common.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/jersey-core-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/jersey-guava-2.13.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/jersey-media-multipart-2.13.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/jersey-server.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/mimepull.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Documents/Knowledge/Web Services/JAX-RS/jerseyjars/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Downloads/httpcomponents-client-4.5.2/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Downloads/httpcomponents-client-4.5.2/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Downloads/httpcomponents-client-4.5.2/lib/fluent-hc-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Downloads/httpcomponents-client-4.5.2/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Downloads/httpcomponents-client-4.5.2/lib/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Downloads/httpcomponents-client-4.5.2/lib/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Downloads/httpcomponents-client-4.5.2/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Downloads/httpcomponents-client-4.5.2/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Downloads/httpcomponents-client-4.5.2/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rahulajaykumar/Downloads/httpcomponents-client-4.5.2/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
